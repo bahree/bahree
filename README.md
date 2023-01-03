@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a little more about AI, platforms, and system design; it seems the more I learn, the less I know.
 - 💞️ I’m not really looking to collaborate on anything specific; maybe if you can get a WPF app run well on Windows with a WebView2, so we can get the Tesla OAuth work, then we can chat.
 - 📫 If you need to get a hold me of, tweet me @bahree🐥
-- 🤙 Or if you prefer on <a rel="me" href="https://mastodon.online/@bahree">Mastodon</a> at https://mastodon.online/@bahree 
+- 🐘 Or if you prefer on <a rel="me" href="https://mastodon.online/@bahree">Mastodon</a> at https://mastodon.online/@bahree 🐘
 
 <!---
 bahree/bahree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
