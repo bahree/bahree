@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahree. These days I am working at **Microsoft** as part of the **Azure AI Platform** engineering team building a bunch of stuff.
 - 👀 I’m interested in things about tech, code, compilers, security, and AI
-- 🌱 I’m currently learning a little more about AI, platforms, and system design; it seems the more I learn, the less I know.
+- 🌱 I’m currently learning a little more about AI, platforms, and system design; it seems the more I learn, the less I know. 🙄
 - 💞️ I’m not really looking to collaborate on anything specific; maybe if you can get a WPF app run well on Windows with a WebView2, so we can get the Tesla OAuth work, then we can chat.
 - 📫 If you need to get a hold me of, tweet me @bahree🐥
 - 📝 You can try and get to me via my blog https://blog.desigeek.com/
