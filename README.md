@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @bahree. These days I am working at **Microsoft** as part of the **Azure AI Platform** engineering team building a bunch of #AI stuff (especially LLM's and things related to them these days) - Azure #OpenAI, #ChatGPT, Cognitive Services, AML, etc.
+- 👋 Hi, I’m @bahree. These days I am working at **Microsoft** as part of the **Azure AI Platform** engineering team building a bunch of #AI things (especially LLM's, SLM's and things related these days) - Azure #OpenAI, #ChatGPT, Cognitive Services, AML, etc.
 - 👀 I’m interested in things about tech, code, compilers, security, and #AI
 - 🌱 I’m currently learning a little more about AI, platforms, and system design; it seems the more I learn, the less I know. 🙄
-- 💞️ I’m not really looking to collaborate on anything specific; maybe if you can get a WPF app run well on Windows with a WebView2, so we can get the Tesla OAuth work, then we can chat.
+- 💞️ I’m not really looking to collaborate on anything specific; maybe if you can get a WPF app run well on Windows with a WebView2, so we can get the Tesla OAuth work, then we can chat. 🙃
 - 📫 If you need to get a hold me of, tweet me [@bahree](https://twitter.com/bahree)🐥
 - 📝 You can try and get to me via my [blog](https://blog.desigeek.com/) at https://blog.desigeek.com/
 - 🐘 Or if you prefer <a rel="me" href="https://mastodon.online/@bahree">Mastodon</a> at https://mastodon.online/@bahree 🐘
-- 📚 My new #book called **Generative AI in Action**, published by Manning is out in early access. More details [on my blog here](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/). 😎
+- 📚 My new #book **Generative AI in Action**, published by Manning is out in early access. More details [on my blog here](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/). 😎
 
 <!---
 bahree/bahree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
