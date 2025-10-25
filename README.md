@@ -7,7 +7,7 @@
 - 🐘 Or if you prefer <a rel="me" href="https://mastodon.online/@bahree">Mastodon</a> at https://mastodon.online/@bahree 🐘
 - 📚 My new #book **Generative AI in Action**, published by Manning is out in early access. More details [on my blog here](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/). 😎
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bahree) **Fuel my AI** 🍵
+[![ko-fi](https://img.shields.io/badge/ko--fi-Fuel%20my%20AI-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bahree)�
 <!---
 bahree/bahree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
